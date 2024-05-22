@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1715787467992" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1715787432335" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1715787464899" />
+    </e>
+    <e n="com.jetbrains.php.config.interpreters.PhpInterpretersConfigurable$2">
+      <i c="2" l="1715787449244" />
+    </e>
+  </component>
+</application>

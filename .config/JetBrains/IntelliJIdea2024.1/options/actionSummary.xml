@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1715531862228" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="6" l="1715532254177" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1715524269034" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1715532169596" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="2" l="1715531872440" />
+    </e>
+  </component>
+</application>
